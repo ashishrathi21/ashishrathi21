@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishrathi21
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning  Javascript
+- 🌱 I’m currently pursuing B.Tech in CSE
 - 😄 Pronouns: he
 
 <!---

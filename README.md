@@ -25,7 +25,7 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,tailwind,vite,mongodb,mysql,postgres,supabase,firebase,redis,docker,git,github,figma,vercel,aws,gcp&perline=13" />
 </p>
 
@@ -67,7 +67,7 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 ---

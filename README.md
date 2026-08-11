@@ -33,8 +33,6 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=ashishrathi21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
@@ -45,11 +43,11 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ashishrathi21&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrathi21&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -69,10 +67,9 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
 
 </div>
-
 ---
 
 # 📌 Featured Projects

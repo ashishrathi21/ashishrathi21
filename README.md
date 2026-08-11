@@ -43,11 +43,11 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrathi21&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com/?user=ashishrathi21&theme=tokyonight&hide_border=true" />
 
 </div>
 

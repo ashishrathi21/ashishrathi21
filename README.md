@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ashish Rathi
 
-### 💻 CSE Student | Full-Stack Web Developer | Building Real-World Projects
+### 💻 CSE Student | Full-Stack Web Developer | Building Real-World Applications
 
 I'm a Computer Science & Engineering student passionate about building **modern, scalable and user-friendly web applications**.
 
-I enjoy turning ideas into real products — from designing the interface to building APIs, databases, authentication, integrations and deploying the final application.
+I enjoy turning ideas into real products — from designing interfaces and building APIs to working with databases, authentication, third-party integrations and deployment.
 
 🚀 Currently focused on **Full-Stack Development, MERN Stack, Next.js and AI-powered applications.**
 
@@ -17,8 +17,9 @@ I enjoy turning ideas into real products — from designing the interface to bui
 - ⚛️ Building applications with React & Next.js
 - 🧩 Working with Node.js, Express & MongoDB
 - 🤖 Exploring AI integration in web applications
-- ☁️ Deploying projects using Vercel and cloud platforms
-- 📚 Continuously learning DSA, advanced development
+- ☁️ Deploying applications using Vercel and cloud platforms
+- 🧠 Improving Data Structures & Algorithms
+- 🎨 Interested in modern UI/UX and interactive web experiences
 - 🚀 Building projects that solve real-world problems
 
 ---
@@ -57,7 +58,7 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrathi21&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrathi21&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -70,21 +71,59 @@ I enjoy turning ideas into real products — from designing the interface to bui
 <img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
+
 ---
 
 # 📌 Featured Projects
 
-## 🛒 DealDrop 
+## 🛒 DealDrop
 
-A price tracking application that monitors products from e-commerce platforms and sends email notifications when prices drop.
+A price-tracking SaaS application that monitors products from e-commerce platforms and sends email alerts when prices drop.
 
-**Tech:** Next.js • Supabase • Firecrawl • Resend • Vercel
+**Tech:** Next.js • Supabase • Firecrawl • Resend • Recharts
 
-🔗 **Repository:** https://github.com/ashishrathi21/DealDrop
+**Features:**
+- 📉 Automated price monitoring
+- 📊 Price history tracking
+- 🔐 Google Authentication
+- 📧 Automated email price-drop alerts
+- ⚙️ Background price-checking jobs
 
+🔗 **GitHub:** [Repository](https://github.com/ashishrathi21/DealDrop)
 
 ---
 
+## 🍽️ DineQR
+
+A QR-based restaurant ordering and management platform designed to digitize restaurant menus and streamline the ordering process.
+
+**Tech:** React • Vite • Tailwind CSS • Zustand • Node.js • Express.js • Socket.io • MongoDB
+
+**Features:**
+- 📱 Digital QR menus
+- 🛎️ Restaurant ordering system
+- ⚡ Real-time order tracking
+- 👨‍🍳 Kitchen Kanban dashboard
+- 📊 Restaurant analytics
+- 🔳 QR code generation
+
+🔗 **GitHub:** [Repository](https://lnkd.in/ddPFrXbn)
+
+---
+
+## ✈️ AI Trip Planner
+
+An AI-powered travel planning application that helps users create personalized trip itineraries based on their travel preferences.
+
+**Tech:** React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini • Unsplash
+
+**Features:**
+- 🤖 AI-generated travel itineraries
+- 💰 Trip budgets and travel tips
+- 🗺️ Personalized trip planning
+- 🖼️ Destination imagery
+- 🔐 JWT & cookie-based authentication
+- 📄 PDF itinerary export
 
 ---
 

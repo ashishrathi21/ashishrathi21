@@ -17,85 +17,17 @@ I enjoy turning ideas into real products — from designing the interface to bui
 - ⚛️ Building applications with React & Next.js
 - 🧩 Working with Node.js, Express & MongoDB
 - 🤖 Exploring AI integration in web applications
-- 🎨 Interested in UI/UX and modern web design
 - ☁️ Deploying projects using Vercel and cloud platforms
-- 📚 Continuously learning DSA, system design and advanced development
+- 📚 Continuously learning DSA, advanced development
 - 🚀 Building projects that solve real-world problems
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,tailwind,vite,mongodb,mysql,postgres,supabase,firebase,redis,docker,git,github,figma,vercel,aws,gcp&perline=13" />
 </p>
-
-## 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
-- Responsive Web Design
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- API Integration
-
-## 🗄️ Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgres" />
-</p>
-
-- MongoDB
-- Supabase
-- PostgreSQL
-- Firebase
-- Database Design
-
-## ☁️ Deployment & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,vscode,figma" />
-</p>
-
-- Git & GitHub
-- Vercel
-- NPM
-- VS Code
-- Figma
-- Adobe XD
-
-## 🔧 Other Technologies
-
-- REST APIs
-- Google OAuth
-- Firecrawl
-- Resend
-- AI API Integration
-- Web Scraping
-- Cron Jobs
-- Cloud Services
 
 ---
 

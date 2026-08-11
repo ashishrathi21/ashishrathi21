@@ -44,15 +44,6 @@ I enjoy turning ideas into real products — from designing interfaces and build
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ashishrathi21&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
@@ -64,15 +55,6 @@ I enjoy turning ideas into real products — from designing interfaces and build
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishrathi21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-</div>
-
----
 
 # 📌 Featured Projects
 
@@ -107,7 +89,7 @@ A QR-based restaurant ordering and management platform designed to digitize rest
 - 📊 Restaurant analytics
 - 🔳 QR code generation
 
-🔗 **GitHub:** [Repository](https://lnkd.in/ddPFrXbn)
+🔗 **GitHub:** [Repository](https://github.com/ashishrathi21/DineQR)
 
 ---
 
@@ -125,6 +107,8 @@ An AI-powered travel planning application that helps users create personalized t
 - 🔐 JWT & cookie-based authentication
 - 📄 PDF itinerary export
 
+🔗 **GitHub:** [Repository](https://github.com/ashishrathi21/AI_Trip_Planner)
+
 ---
 
 # 💡 What I'm Currently Working On
@@ -135,4 +119,3 @@ An AI-powered travel planning application that helps users create personalized t
 🤖 AI Integration
 🧠 Data Structures & Algorithms
 ☁️ Cloud & Deployment
-🎨 Modern UI/UX

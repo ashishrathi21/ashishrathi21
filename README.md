@@ -33,11 +33,13 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishrathi21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ashishrathi21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrathi21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishrathi21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
@@ -75,43 +77,17 @@ I enjoy turning ideas into real products — from designing the interface to bui
 
 # 📌 Featured Projects
 
-## 💰 Finora — AI Finance Platform
-
-An AI-powered personal finance platform designed to help users understand, track and manage their finances.
-
-**Tech:** Next.js • TypeScript • React • Tailwind CSS • Supabase • AI
-
-🔗 **Repository:** Coming Soon
-
----
-
-## 💸 Settlo — Group Expense Management
-
-A modern expense splitting and settlement application for friends, roommates, couples and travel groups.
-
-**Tech:** React • TypeScript • Tailwind CSS • Supabase
-
-🔗 **Repository:** Coming Soon
-
----
-
-## 🛒 Price Drop Notifier
+## 🛒 DealDrop 
 
 A price tracking application that monitors products from e-commerce platforms and sends email notifications when prices drop.
 
 **Tech:** Next.js • Supabase • Firecrawl • Resend • Vercel
 
-🔗 **Repository:** Coming Soon
+🔗 **Repository:** https://github.com/ashishrathi21/DealDrop
+
 
 ---
 
-## 🐾 Pet Shop Landing Page
-
-A responsive modern landing page designed for a pet shop with a focus on clean UI and user experience.
-
-**Tech:** React • Tailwind CSS • Framer Motion
-
-🔗 **Repository:** Coming Soon
 
 ---
 
